@@ -81,6 +81,7 @@ require(listing.seller == msg.sender, "Debes ser el vendedor para actualizar el 
 **Razón**: Asegura que solo el propietario legítimo de un NFT pueda modificar su listado o precio.
 
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT.
+### Integrantes: 
+- [Juan Pablo Villaplana](https://github.com/PabloVillaplana)
+- [Diana Novoa](https://github.com/nov0ax)
+- [Anouk Rímola](https://github.com/AnoukRImola)
